@@ -1,0 +1,13 @@
+node_modules
+dist
+.output
+.nitro
+.tanstack
+.wrangler
+artifacts
+screenshots
+.grok
+*.log
+.env
+.env.*
+.DS_Store
